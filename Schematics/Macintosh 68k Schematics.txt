@@ -1,0 +1,40 @@
+Macintosh 68k Schematics
+========================
+
+Bomarc Services reverse engineered several Apple Macintosh computers in the
+1990s and sold the schematics to companies providing products or services
+that needed such documentation. Bomarc Services has now disappeared. I have
+done my best to track down the documents and process them for preservation.
+
+The Bomarc schematics were distributed on heavily watermarked, photocopied
+color paper. The only copies to be found were black and white scans. They
+were difficult to read in their original form due to the heavy watermarking
+and poor contrast. This collection represents hundreds of hours of retouching
+to restore the scans to something useful. In retrospect, the time might have
+been better spent re-drawing them from scratch. In any case, they are now
+much improved over the original scans, despite many flaws still present.
+
+Also included are some Apple schematics. These are mostly incomplete.
+
+Bomarc Schematics
+-----------------
+
+Macintosh Classic
+Macintosh Classic II
+Macintosh Color Classic
+Macintosh II
+Macintosh IIci
+Macintosh IIcx
+Macintosh IIfx
+Macintosh IIsi
+Macintosh LC II
+Macintosh LC III
+Macintosh Quadra 840av
+
+Apple Schematics
+----------------
+
+Macintosh M0001
+Macintosh Plus
+Macintosh SE
+Macintosh Portable
